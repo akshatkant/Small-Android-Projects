@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">image\</string>
+    <string name="thisisanimage">Thisisanimage</string>
+    <string name="secondimage">secondimage</string>
+    <string name="hahaimage">hahaimage</string>
+    <string name="image16">image16</string>
+    <string name="image15">image15</string>
+    <string name="todo1">TODO1</string>
+    <string name="todo2">TODO2</string>
+    <string name="todo3">TODO3</string>
+
+
+</resources>

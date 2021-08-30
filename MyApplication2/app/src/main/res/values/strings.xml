@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="todo1">TODO1</string>
+    <string name="name">NAME:</string>
+    <string name="password">PASSWORD:</string>
+    <string name="submit">SUBMIT</string>
+</resources>

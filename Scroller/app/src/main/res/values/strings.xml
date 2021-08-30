@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Scroller</string>
+    <string name="textview">For disciplines in which a qualitative format is preferential, including ethnography, humanistic geography or phenomenological psychology a varied approach to coding can be applied. Iain Hay (2005) outlines a two-step process beginning with basic coding in order to distinguish overall themes, followed by a more in depth, interpretive code in which more specific trends and patterns can be interpreted.[2]
+
+Much of qualitative coding can be attributed to either grounded or a priori coding.[3] Grounded coding refers to allowing notable themes and patterns emerge from the document themselves, where as a priori coding requires the researcher to apply pre-existing theoretical frameworks to analyze the documents. As coding methods are applied across various texts, the researcher is able to apply axial coding, which is the process of selecting core thematic categories present in several documents to discover common patterns and relations.[4]
+
+Coding is considered a process of discovery and is done in cycles. Prior to constructing categories, a researcher might apply a first and second cycle coding methods.[3] There are a multitude of methods available, and a researcher will want to pick one that is suited for the format and nature of their documents. Not all methods can be applied to every type of document. Some examples of first cycle coding methods include:
+
+In Vivo Coding: codes terms and phrases used by the participants themselves. The objective is to attempt to give the participants a voice in the research.
+Process Coding: this method uses gerunds ("-ing" words) only to describe and display actions throughout the document. It is useful for examining processes, emotional phases and rituals.
+Versus Coding: uses binary terms to describe groups and processes. The goal is to see which processes and organizations are in conflict with each other throughout the document. These can be both conceptual and grounded objects.
+Values Coding: codes that attempt to exhibit the inferred values, attitudes and beliefs of participants. In doing so, the research may discern patterns in world views.
+Sub-coding: Other names of this method are embedded coding, nested coding or joint coding. This involves assigning primary and second order codes to a word or phrase. It serves the purpose of adding detail to a code. The primary and secondary codes are often called parent and children codes.[5]
+Simultaneous Coding: When same parts of the data have different meanings and two or more codes are applied to the same parts, then this kind of coding is called Simultaneous Coding.[3]
+The process can be done manually, which can be as simple as highlighting different concepts with different colours, or fed into a software package. Some examples of qualitative software packages include Atlas.ti, MAXQDA, NVivo, QDA Miner, and RQDA.
+
+After assembling codes it is time to organize them into broader themes and categories. The process generally involves identifying themes from the existing codes, reducing the themes to a manageable number, creating hierarchies within the themes and then linking themes together through theoretical modeling.[6]</string>
+</resources>

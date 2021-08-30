@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="enter_your_name">ENTER YOUR NAME</string>
+    <string name="button">Button</string>
+    <string name="todo22">TODO22</string>
+    <string name="todo23">TODO23</string>
+</resources>
