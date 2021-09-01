@@ -1,0 +1,2 @@
+rootProject.name = "TriangularNumbers"
+include ':app'
